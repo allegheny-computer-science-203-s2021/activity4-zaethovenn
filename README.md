@@ -1,6 +1,8 @@
 # cs203s2021-activity4
 
-## DUE: by Thursday, March 11 
+## DUE: by Thursday, March 11
+
+![badge](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
 
 ## Introduction
 
